@@ -20,7 +20,5 @@ int main(){
     cout << "=============================================" << endl;
     kembalian = pembayaran - total;
 
-    cout << "Kemablian                              :  "<<kembalian << endl;
-
-
+    cout << "Kembalian                              :  "<<kembalian << endl;
 }
